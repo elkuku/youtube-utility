@@ -1,5 +1,9 @@
 <?php
-require('ZanfiYouTube.php');
+require '../vendor/autoload.php';
+
+use Zanfi\ZanfiYouTube;
+
+// require('ZanfiYouTube.php');
 
 // initialize the class with a yotube video ID or a youtube video url
 // $ZanfiYouTube = new ZanfiYouTube('WaEKXGlfYj8');
