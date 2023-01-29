@@ -1,0 +1,17 @@
+{
+    "name": "zanferrari/youtube-utility",
+    "autoload": {
+        "psr-4": {
+            "Zanfi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "zanferrari",
+            "email": "zanferrari@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
